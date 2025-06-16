@@ -1,9 +1,8 @@
 :root {
   --primary-color: #bd6c2e;
   --secondary-color: #b818a8;
-  --
   --text-color: #ffffff;
-  --font-family: 'Arial', sans-serif;
+  --font-family: sans-serif;
 
 }
 
@@ -113,7 +112,7 @@ section {
 }
 
 
- ul .header {
+  {
 
  font-size: x-large;
  align-items: center;
